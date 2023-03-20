@@ -1,6 +1,6 @@
-//Author: Spase Sandoval
-//Date: 3/18/23
-//Circuitpython basic macro keyboard with LED functionality, add or remove buttons, and change "board.GPXX" and keycodes/controlcodes as needed.
+#Author: spasemax0
+#Date: 3/18/23
+#Circuitpython basic macro keyboard with LED functionality, add or remove buttons, and change "board.GPXX" and keycodes/controlcodes as needed.
 
 import time
 import digitalio
